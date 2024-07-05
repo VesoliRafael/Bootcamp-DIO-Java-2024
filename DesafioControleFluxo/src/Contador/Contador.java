@@ -8,7 +8,6 @@ package Contador;
  *
  * @author alves
  */
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Contador {
